@@ -1,0 +1,6 @@
+{
+  "buckets": [
+    { "id": 1, "name": "webnext-nonprod-r2", "accessLevel": "Private", "provider": "R2", "created": "1 year ago" },
+    { "id": 2, "name": "sav-nonprod-s3", "accessLevel": "Public", "provider": "S3", "created": "6 months ago" }
+  ]
+}
