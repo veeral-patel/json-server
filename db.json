@@ -2,5 +2,9 @@
   "buckets": [
     { "id": 1, "name": "webnext-nonprod-r2", "accessLevel": "Private", "provider": "R2", "created": "1 year ago" },
     { "id": 2, "name": "sav-nonprod-s3", "accessLevel": "Public", "provider": "S3", "created": "6 months ago" }
+  ],
+  "cloud-accounts": [
+    { "id": 1, "name": "AWS-Prod", "provider": "AWS", "region": "US-East-1", "created": "1 month ago" },
+    { "id": 2, "name": "Cloudflare-Prod", "provider": "Cloudflare", "region": "auto", "created": "2 weeks ago" }
   ]
 }
