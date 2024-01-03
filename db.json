@@ -10,5 +10,9 @@
   "cloud-accounts": [
     { "id": 1, "name": "AWS-Prod", "provider": "AWS", "region": "US-East-1", "created": "1 month ago" },
     { "id": 2, "name": "Cloudflare-Prod", "provider": "Cloudflare", "region": "auto", "created": "2 weeks ago" }
+  ],
+  "applications": [
+    { "id": 1, "name": "Webnext", "bucketCount": 3, "created": "1 month ago" },
+    { "id": 2, "name": "HDS", "bucketCount": 5, "created": "2 weeks ago" }
   ]
 }
