@@ -8,8 +8,8 @@
     { "id": 2, "name": "Cloudflare", "regionCount": 3, "accountCount": 5, "created": "1 week ago" }
   ],
   "cloud-regions": [
-    { "id": 1, "name": "AWS-US-East-1", "accountCount": 6, "bucketCount": 12, "created": "1 month ago" },
-    { "id": 2, "name": "Cloudflare", "accountCount": 5, "bucketCount": 12, "created": "1 week ago" }
+    { "id": 1, "name": "AWS-US-East-1", "provider": "AWS", "accountCount": 6, "bucketCount": 12, "created": "1 month ago" },
+    { "id": 2, "name": "Cloudflare-Auto", "provider": "Cloudflare", "accountCount": 5, "bucketCount": 12, "created": "1 week ago" }
   ],
   "cloud-accounts": [
     { "id": 1, "name": "AWS-Prod", "provider": "AWS", "region": "US-East-1", "created": "1 month ago" },
