@@ -18,5 +18,9 @@
   "applications": [
     { "id": 1, "name": "Webnext", "bucketCount": 3, "created": "1 month ago" },
     { "id": 2, "name": "HDS", "bucketCount": 5, "created": "2 weeks ago" }
+  ],
+  "admins": [
+    { "id": 1, "username": "ravipatel", "email": "ravipatel@na.baps.org", "role": "System Admin", "created": "1 month ago" },
+    { "id": 2, "username": "rajpatel", "email": "rajpatel@na.baps.org", "role": "System Admin", "created": "2 weeks ago" }
   ]
 }
