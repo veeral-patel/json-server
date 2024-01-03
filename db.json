@@ -4,8 +4,8 @@
     { "id": 2, "name": "sav-nonprod-s3", "accessLevel": "Public", "provider": "Cloudflare", "created": "6 months ago" }
   ],
   "cloud-providers": [
-    { "id": 1, "name": "AWS", "created": "1 month ago" },
-    { "id": 2, "name": "Cloudflare", "provider": "Cloudflare", "region": "auto", "created": "1 week ago" }
+    { "id": 1, "name": "AWS", "regionCount": 2, "accountCount": 8, "created": "1 month ago" },
+    { "id": 2, "name": "Cloudflare", "regionCount": 3, "accountCount": 5, "created": "1 week ago" }
   ],
   "cloud-accounts": [
     { "id": 1, "name": "AWS-Prod", "provider": "AWS", "region": "US-East-1", "created": "1 month ago" },
