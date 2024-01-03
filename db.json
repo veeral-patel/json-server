@@ -12,8 +12,8 @@
     { "id": 2, "name": "Cloudflare-Auto", "provider": "Cloudflare", "accountCount": 5, "bucketCount": 12, "size": "8.21 GB", "created": "1 week ago" }
   ],
   "cloud-accounts": [
-    { "id": 1, "name": "AWS-Prod", "provider": "AWS", "region": "US-East-1", "size": "12.12 GB", "created": "1 month ago" },
-    { "id": 2, "name": "Cloudflare-Prod", "provider": "Cloudflare", "region": "auto", "size": "2.12 GB", "created": "2 weeks ago" }
+    { "id": 1, "name": "AWS-Prod", "provider": "AWS", "region": "US-East-1", "bucketCount": 3, "size": "12.12 GB", "created": "1 month ago" },
+    { "id": 2, "name": "Cloudflare-Prod", "provider": "Cloudflare", "region": "auto", "bucketCount": 5, "size": "2.12 GB", "created": "2 weeks ago" }
   ],
   "applications": [
     { "id": 1, "name": "Webnext", "bucketCount": 3, "size": "12.12 GB", "created": "1 month ago" },
